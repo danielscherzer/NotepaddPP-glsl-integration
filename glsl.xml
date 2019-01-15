@@ -2225,6 +2225,7 @@
 				<Param name="out genUType carry" />
 			</Overload>
 		</KeyWord>
+		<KeyWord name="uint" />		
 		<KeyWord name="uintBitsToFloat" func="yes">
 			<Overload retVal="genType" descr="[3.30] Returns v's unsigned integer bit representation as a float">
 				<Param name="genIType/genUType v" />
